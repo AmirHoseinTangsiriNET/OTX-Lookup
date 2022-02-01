@@ -29,7 +29,7 @@ print ("""
 
 
 #SingUp To OTX Alienvault For Getting A API Key From API Integration Tab (https://otx.alienvault.com/api)
-headers = {"X-OTX-API-KEY": "4d540c64d47084470cdfbc17a51c9896848f9a7ad55648a1e27001ba17f0907b",
+headers = {"X-OTX-API-KEY": "Paste OTX Key In Here",
 		   "Accept": "application/json",
 		   'User-Agent': 'Mozilla 5.0'}
 
