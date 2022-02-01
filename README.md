@@ -5,11 +5,14 @@
 
 AlienVault OSSIM® Open Threat Exchange®(OTX™) is a threat data platform that allows security researchers and threat data producers to share research and investigate new threats. OTX provides open access for all, allowing you to collaborate with a worldwide community of threat researchers and security professionals. OTX Loockup Is A Sample IOC Loockup For OTX AlienVault With Python
 
-
 ## Prerequisite
-* Python 3
+* Python v3
 * Json Python Module
 * requests Python Module
 * time Python Module
 * sys Python Module
 * os Python Module
+
+## installation:
+➜  ~ Download OTX-Lookup From https://github.com/AmirHoseinTangsiriNET/OTX-Loockup
+➜  ~ Run OTX.Lookup.py File With Python v3
