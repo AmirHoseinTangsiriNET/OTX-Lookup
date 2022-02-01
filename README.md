@@ -9,7 +9,7 @@ AlienVault OSSIM® Open Threat Exchange®(OTX™) is a threat data platform that
 ## Prerequisite
 * Python 3
 * Json Python Module
-* requests
-* time
-* sys
-* os
+* requests Python Module
+* time Python Module
+* sys Python Module
+* os Python Module
