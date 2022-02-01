@@ -22,6 +22,6 @@ Add OTX Key Into Source Code:
 >		   "Accept": "application/json",
 >		   'User-Agent': 'Mozilla 5.0'}
 >		   
-* Note: SingUp To OTX Alienvault For Getting A API Key From API Integration Tab (https://otx.alienvault.com/api)
+* Note: Sing Up To OTX Alienvault For Getting A API Key From API Integration Tab (https://otx.alienvault.com/api)
 
 ➜  Run OTX.Lookup.py File With Python v3
