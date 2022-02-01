@@ -1,1 +1,1 @@
-# OTX AlienVaul Pules Loockup
+# OTX AlienVaul Loockup
