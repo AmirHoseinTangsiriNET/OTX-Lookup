@@ -14,7 +14,7 @@ AlienVault OSSIM® Open Threat Exchange®(OTX™) is a threat data platform that
 * os Python Module
 
 ## installation:
-➜  ~ Download OTX-Lookup From https://github.com/AmirHoseinTangsiriNET/OTX-Loockup
+➜  Download OTX-Lookup From https://github.com/AmirHoseinTangsiriNET/OTX-Loockup
 
 Add OTX Key Into Source Code:
 
@@ -24,4 +24,4 @@ Add OTX Key Into Source Code:
 >		   
 * Note: SingUp To OTX Alienvault For Getting A API Key From API Integration Tab (https://otx.alienvault.com/api)
 
-➜  ~ Run OTX.Lookup.py File With Python v3
+➜  Run OTX.Lookup.py File With Python v3
