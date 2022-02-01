@@ -35,7 +35,7 @@ headers = {"X-OTX-API-KEY": "Paste OTX Key In Here",
 
 
 def IPv4Indicator():
-	#OTX Api For IPv6 Indicator -> /api/v1/indicators/IPv4/{ip}/{section}
+	#OTX Api For IPv4 Indicator -> /api/v1/indicators/IPv4/{ip}/{section}
 
 	try:
 
