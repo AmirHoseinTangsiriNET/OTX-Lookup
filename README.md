@@ -17,9 +17,11 @@ AlienVault OSSIM® Open Threat Exchange®(OTX™) is a threat data platform that
 ➜  ~ Download OTX-Lookup From https://github.com/AmirHoseinTangsiriNET/OTX-Loockup
 
 Add OTX Key Into Source Code:
-headers = {"X-OTX-API-KEY": "Paste OTX Key In Here",
-		   "Accept": "application/json",
-		   'User-Agent': 'Mozilla 5.0'}
+
+> headers = {"X-OTX-API-KEY": "Paste OTX Key In Here",
+>		   "Accept": "application/json",
+>		   'User-Agent': 'Mozilla 5.0'}
+>		   
 * Note: SingUp To OTX Alienvault For Getting A API Key From API Integration Tab (https://otx.alienvault.com/api)
 
 ➜  ~ Run OTX.Lookup.py File With Python v3
